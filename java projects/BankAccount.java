@@ -1,4 +1,5 @@
-import java.util.Scanner;
+
+import java.util.*;
 
 class BankAccount{
     int accono,balance,depositamt,amt;
